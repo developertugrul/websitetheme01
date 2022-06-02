@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#about-content > h3{
+    color: rgba(255,255,255,1);
+}
+
+#about-content > p, #about-content li{
+    color: rgba(255,255,255,.7);
+}
